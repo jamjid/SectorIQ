@@ -4,3 +4,4 @@ langchain-google-genai
 langgraph
 tavily-python
 fpdf
+pandas
